@@ -1,0 +1,1488 @@
+{
+    "coverage": [
+        {
+            "url": "https://developers.meta.com/horizon-worlds/learn/documentation/tutorial-worlds/build-your-first-game/module-1-build-your-first-game",
+            "file": "tutorials/build-your-first-game/01-build-your-first-game.md",
+            "status": "completed",
+            "extracted_at": "2025-09-25T00:00:00Z",
+            "concepts": [
+                "desktop_editor",
+                "build_mode",
+                "preview_mode",
+                "entity_duplication",
+                "world_layout"
+            ]
+        },
+        {
+            "url": "https://developers.meta.com/horizon-worlds/learn/documentation/tutorial-worlds/build-your-first-game/module-2-intro-to-scripting",
+            "file": "tutorials/build-your-first-game/02-intro-to-scripting.md",
+            "status": "completed",
+            "extracted_at": "2025-09-25T00:00:00Z",
+            "concepts": [
+                "hz_component",
+                "player_tracking",
+                "code_block_events",
+                "console_logging",
+                "empty_objects"
+            ]
+        },
+        {
+            "url": "https://developers.meta.com/horizon-worlds/learn/documentation/tutorial-worlds/build-your-first-game/module-3-build-game-manager",
+            "file": "tutorials/build-your-first-game/03-build-game-manager.md",
+            "status": "completed",
+            "extracted_at": "2025-09-25T00:00:00Z",
+            "concepts": [
+                "game_state",
+                "finite_state_machine",
+                "typescript_enums",
+                "state_transitions"
+            ]
+        },
+        {
+            "url": "https://developers.meta.com/horizon-worlds/learn/documentation/tutorial-worlds/build-your-first-game/module-4-broadcast-events",
+            "file": "tutorials/build-your-first-game/04-broadcast-events.md",
+            "status": "completed",
+            "extracted_at": "2025-09-25T00:00:00Z",
+            "concepts": [
+                "local_events",
+                "broadcast_events",
+                "sendLocalBroadcastEvent",
+                "connectLocalBroadcastEvent",
+                "event_payloads"
+            ]
+        },
+        {
+            "url": "https://developers.meta.com/horizon-worlds/learn/documentation/tutorial-worlds/build-your-first-game/module-5-build-game-setup",
+            "file": "tutorials/build-your-first-game/05-build-game-setup.md",
+            "status": "completed",
+            "extracted_at": "2025-09-25T00:00:00Z",
+            "concepts": [
+                "entity_properties",
+                "component_arrays",
+                "reference_objects",
+                "hide_show_technique",
+                "sendLocalEvent"
+            ]
+        },
+        {
+            "url": "https://developers.meta.com/horizon-worlds/learn/documentation/tutorial-worlds/build-your-first-game/module-6-game-start-and-collection",
+            "file": "tutorials/build-your-first-game/06-game-start-and-collection.md",
+            "status": "completed",
+            "extracted_at": "2025-09-25T00:00:00Z",
+            "concepts": [
+                "trigger_zones",
+                "OnPlayerEnterTrigger",
+                "OnPlayerCollision",
+                "collision_properties",
+                "grabbable_behavior"
+            ]
+        },
+        {
+            "url": "https://developers.meta.com/horizon-worlds/learn/documentation/tutorial-worlds/build-your-first-game/module-7-collecting-gems-and-keeping-score",
+            "file": "tutorials/build-your-first-game/07-collecting-gems-and-keeping-score.md",
+            "status": "completed",
+            "extracted_at": "2025-09-25T00:00:00Z",
+            "concepts": [
+                "score_tracking",
+                "map_data_structures",
+                "entity_id_tracking",
+                "win_conditions",
+                "game_reset"
+            ]
+        },
+        {
+            "url": "https://developers.meta.com/horizon-worlds/learn/documentation/tutorial-worlds/build-your-first-game/module-8-adding-polish",
+            "file": "tutorials/build-your-first-game/08-adding-polish.md",
+            "status": "completed",
+            "extracted_at": "2025-09-25T00:00:00Z",
+            "concepts": [
+                "text_gizmos",
+                "entity_casting",
+                "dynamic_ui",
+                "template_literals",
+                "scoreboard_integration"
+            ]
+        },
+        {
+            "url": "https://developers.meta.com/horizon-worlds/learn/documentation/tutorial-worlds/batting-cage-tutorial",
+            "file": "tutorials/batting-cage/01-batting-cage-tutorial.md",
+            "status": "completed",
+            "extracted_at": "2025-09-25T00:00:00Z",
+            "concepts": [
+                "physics_simulation",
+                "grabbable_entities",
+                "entity_collision",
+                "local_scripting",
+                "ownership_transfer",
+                "gameplay_tags",
+                "cross_platform",
+                "gravity_customization"
+            ]
+        },
+        {
+            "url": "https://developers.meta.com/horizon-worlds/learn/documentation/tutorial-worlds/camera-api-examples-tutorial/module-1-setup",
+            "file": "tutorials/camera-api-examples/01-setup.md",
+            "status": "completed",
+            "extracted_at": "2025-09-25T00:00:00Z",
+            "concepts": [
+                "camera_api",
+                "web_mobile",
+                "player_camera",
+                "tutorial_setup",
+                "platform_detection"
+            ]
+        },
+        {
+            "url": "https://developers.meta.com/horizon-worlds/learn/documentation/tutorial-worlds/camera-api-examples-tutorial/module-2-playercamera-overview",
+            "file": "tutorials/camera-api-examples/02-playercamera-overview.md",
+            "status": "completed",
+            "extracted_at": "2025-09-25T00:00:00Z",
+            "concepts": [
+                "player_camera_events",
+                "camera_perspectives",
+                "local_script_mode",
+                "camera_reset_button",
+                "spawn_point_configuration"
+            ]
+        },
+        {
+            "url": "https://developers.meta.com/horizon-worlds/learn/documentation/tutorial-worlds/camera-api-examples-tutorial/module-3-playercameramanager",
+            "file": "tutorials/camera-api-examples/03-playercameramanager.md",
+            "status": "completed",
+            "extracted_at": "2025-09-25T00:00:00Z",
+            "concepts": [
+                "camera_assignment",
+                "self_registration",
+                "retry_mechanisms",
+                "player_index_management",
+                "race_condition_handling"
+            ]
+        },
+        {
+            "url": "https://developers.meta.com/horizon-worlds/learn/documentation/tutorial-worlds/camera-api-examples-tutorial/module-4-pancamera",
+            "file": "tutorials/camera-api-examples/04-pan-camera.md",
+            "status": "completed",
+            "extracted_at": "2025-09-25T00:00:00Z",
+            "concepts": [
+                "pan_camera",
+                "camera_offset",
+                "sidescrolling",
+                "top_down",
+                "collision_enabled"
+            ]
+        },
+        {
+            "url": "https://developers.meta.com/horizon-worlds/learn/documentation/tutorial-worlds/camera-api-examples-tutorial/module-5-fixed-camera-and-spectator-mode",
+            "file": "tutorials/camera-api-examples/05-fixed-camera-spectator-mode.md",
+            "status": "completed",
+            "extracted_at": "2025-09-25T00:00:00Z",
+            "concepts": [
+                "fixed_camera",
+                "spectator_mode",
+                "reference_entities",
+                "camera_safety",
+                "locomotion_control"
+            ]
+        },
+        {
+            "url": "https://developers.meta.com/horizon-worlds/learn/documentation/tutorial-worlds/camera-api-examples-tutorial/module-6-fixed-camera-and-cutscenes",
+            "file": "tutorials/camera-api-examples/06-fixed-camera-cutscenes.md",
+            "status": "completed",
+            "extracted_at": "2025-09-25T00:00:00Z",
+            "concepts": [
+                "cutscenes",
+                "camera_dolly",
+                "environmental_animation",
+                "timed_sequences",
+                "npc_emotes"
+            ]
+        },
+        {
+            "url": "https://developers.meta.com/horizon-worlds/learn/documentation/tutorial-worlds/camera-api-examples-tutorial/module-7-other-systems-and-summary",
+            "file": "tutorials/camera-api-examples/07-other-systems-summary.md",
+            "status": "completed",
+            "extracted_at": "2025-09-25T00:00:00Z",
+            "concepts": [
+                "tutorial_summary",
+                "instructions_system",
+                "weapon_systems",
+                "custom_ui_implementation",
+                "camera_best_practices"
+            ]
+        },
+        {
+            "url": "https://developers.meta.com/horizon-worlds/learn/documentation/tutorial-worlds/simple-shooting-mechanics-tutorial/module-3-simple-gun",
+            "file": "tutorials/simple-shooting-mechanics/03-simple-gun.md",
+            "status": "completed",
+            "extracted_at": "2025-09-25T12:00:00Z",
+            "concepts": [
+                "grabbable_gun",
+                "gun_script",
+                "ammo_management",
+                "input_handling",
+                "local_execution"
+            ]
+        },
+        {
+            "url": "https://developers.meta.com/horizon-worlds/learn/documentation/tutorial-worlds/simple-shooting-mechanics-tutorial/module-4-laser-gun",
+            "file": "tutorials/simple-shooting-mechanics/04-laser-gun.md",
+            "status": "completed",
+            "extracted_at": "2025-09-25T12:00:00Z",
+            "concepts": [
+                "laser_gun",
+                "raycast_gizmo",
+                "beam_visualization",
+                "instant_hit",
+                "visual_effects"
+            ]
+        },
+        {
+            "url": "https://developers.meta.com/horizon-worlds/learn/documentation/tutorial-worlds/simple-shooting-mechanics-tutorial/module-5-summary",
+            "file": "tutorials/simple-shooting-mechanics/05-summary.md",
+            "status": "completed",
+            "extracted_at": "2025-09-25T12:00:00Z",
+            "concepts": [
+                "tutorial_summary",
+                "extension_ideas",
+                "weapon_systems",
+                "combat_mechanics",
+                "next_steps"
+            ]
+        },
+        {
+            "url": "https://developers.meta.com/horizon-worlds/learn/documentation/tutorial-worlds/custom-ui-examples-tutorial/station-0-setup",
+            "file": "tutorials/custom-ui-examples/00-setup.md",
+            "status": "completed",
+            "extracted_at": "2025-09-25T00:00:00Z",
+            "concepts": [
+                "custom_ui",
+                "ui_gizmo",
+                "typescript_ui",
+                "auto_start_simulation",
+                "performance_constraints",
+                "ui_setup"
+            ]
+        },
+        {
+            "url": "https://developers.meta.com/horizon-worlds/learn/documentation/tutorial-worlds/custom-ui-examples-tutorial/station-7-persistent-variables",
+            "file": "tutorials/custom-ui-examples/07-persistent-variables.md",
+            "status": "completed",
+            "extracted_at": "2025-09-25T00:00:00Z",
+            "concepts": [
+                "persistent_variables",
+                "variable_groups",
+                "data_persistence",
+                "trigger_zones",
+                "player_data_storage"
+            ]
+        },
+        {
+            "url": "https://developers.meta.com/horizon-worlds/learn/documentation/tutorial-worlds/custom-ui-examples-tutorial/station-8-json-as-datasource-for-custom-uis",
+            "file": "tutorials/custom-ui-examples/08-json-as-datasource.md",
+            "status": "completed",
+            "extracted_at": "2025-09-25T00:00:00Z",
+            "concepts": [
+                "json_data_sources",
+                "text_assets",
+                "data_driven_ui",
+                "async_data_loading",
+                "content_management"
+            ]
+        },
+        {
+            "url": "https://developers.meta.com/horizon-worlds/learn/documentation/tutorial-worlds/custom-ui-examples-tutorial/station-9-animation-effects",
+            "file": "tutorials/custom-ui-examples/09-animation-effects.md",
+            "status": "completed",
+            "extracted_at": "2025-09-25T00:00:00Z",
+            "concepts": [
+                "ui_animations",
+                "animated_binding",
+                "animation_classes",
+                "ui_effects",
+                "transform_animations"
+            ]
+        },
+        {
+            "url": "https://developers.meta.com/horizon-worlds/learn/documentation/tutorial-worlds/custom-ui-examples-tutorial/station-10-timer-and-build-info-overlays",
+            "file": "tutorials/custom-ui-examples/10-timer-and-build-info-overlays.md",
+            "status": "completed",
+            "extracted_at": "2025-09-25T00:00:00Z",
+            "concepts": [
+                "screen_overlays",
+                "hud_development",
+                "absolute_positioning",
+                "timer_systems",
+                "native_popups"
+            ]
+        },
+        {
+            "url": "https://developers.meta.com/horizon-worlds/learn/documentation/desktop-editor/custom-ui/api-reference-for-custom-ui",
+            "file": "custom-ui-overview.md",
+            "status": "referenced",
+            "extracted_at": "2025-09-25T00:00:00Z",
+            "concepts": [
+                "custom_ui_api",
+                "ui_styles",
+                "layout_properties",
+                "text_properties",
+                "animation_properties"
+            ]
+        },
+        {
+            "url": "https://developers.meta.com/horizon-worlds/learn/documentation/tutorial-worlds/multiplayer-lobby-tutorial/module-1-setup",
+            "file": "tutorials/multiplayer-lobby/01-setup.md",
+            "status": "completed",
+            "extracted_at": "2025-09-25T12:00:00Z",
+            "concepts": [
+                "multiplayer_lobby",
+                "drop_in_gameplay",
+                "desktop_editor_setup",
+                "player_management",
+                "tutorial_prerequisites"
+            ]
+        },
+        {
+            "url": "https://developers.meta.com/horizon-worlds/learn/documentation/tutorial-worlds/multiplayer-lobby-tutorial/module-2-provided-scripts",
+            "file": "tutorials/multiplayer-lobby/02-provided-scripts.md",
+            "status": "completed",
+            "extracted_at": "2025-09-25T12:00:00Z",
+            "concepts": [
+                "component_architecture",
+                "player_manager",
+                "game_manager",
+                "trigger_scripts",
+                "game_utils"
+            ]
+        },
+        {
+            "url": "https://developers.meta.com/horizon-worlds/learn/documentation/tutorial-worlds/multiplayer-lobby-tutorial/module-3-handling-players-entering-and-exiting",
+            "file": "tutorials/multiplayer-lobby/03-handling-players-entering-and-exiting.md",
+            "status": "completed",
+            "extracted_at": "2025-09-25T12:00:00Z",
+            "concepts": [
+                "player_tracking",
+                "match_players",
+                "lobby_players",
+                "player_state_management",
+                "drop_in_handling"
+            ]
+        },
+        {
+            "url": "https://developers.meta.com/horizon-worlds/learn/documentation/tutorial-worlds/multiplayer-lobby-tutorial/module-4-starting-the-game",
+            "file": "tutorials/multiplayer-lobby/04-starting-the-game.md",
+            "status": "completed",
+            "extracted_at": "2025-09-25T12:00:00Z",
+            "concepts": [
+                "game_start",
+                "countdown_timer",
+                "state_transitions",
+                "player_messaging",
+                "broadcast_events"
+            ]
+        },
+        {
+            "url": "https://developers.meta.com/horizon-worlds/learn/documentation/tutorial-worlds/multiplayer-lobby-tutorial/module-5-entering-the-match",
+            "file": "tutorials/multiplayer-lobby/05-entering-the-match.md",
+            "status": "completed",
+            "extracted_at": "2025-09-25T12:00:00Z",
+            "concepts": [
+                "player_teleportation",
+                "spawn_points",
+                "match_coordination",
+                "entity_properties",
+                "spawn_point_gizmo"
+            ]
+        },
+        {
+            "url": "https://developers.meta.com/horizon-worlds/learn/documentation/tutorial-worlds/multiplayer-lobby-tutorial/module-6-completing-the-match-and-returning-players",
+            "file": "tutorials/multiplayer-lobby/06-completing-the-match-and-returning-players.md",
+            "status": "completed",
+            "extracted_at": "2025-09-25T12:00:00Z",
+            "concepts": [
+                "match_completion",
+                "player_return",
+                "lobby_teleportation",
+                "game_reset",
+                "continuous_gameplay"
+            ]
+        },
+        {
+            "url": "https://developers.meta.com/horizon-worlds/learn/documentation/tutorial-worlds/developing-for-web-and-mobile-players-tutorial/module-1-setup",
+            "file": "tutorials/web-mobile-development/01-setup.md",
+            "status": "completed",
+            "extracted_at": "2025-09-25T00:00:00Z",
+            "concepts": [
+                "web_mobile_tutorial",
+                "cross_platform_setup",
+                "tutorial_prerequisites",
+                "vr_web_mobile_testing",
+                "device_type_detection"
+            ]
+        },
+        {
+            "url": "https://developers.meta.com/horizon-worlds/learn/documentation/tutorial-worlds/developing-for-web-and-mobile-players-tutorial/module-2-the-hud-system",
+            "file": "tutorials/web-mobile-development/02-hud-system.md",
+            "status": "completed",
+            "extracted_at": "2025-09-25T00:00:00Z",
+            "concepts": [
+                "hud_system",
+                "cross_platform_ui",
+                "avatar_attachable",
+                "2d_screen_space",
+                "device_specific_behavior",
+                "screen_safe_areas"
+            ]
+        },
+        {
+            "url": "https://developers.meta.com/horizon-worlds/learn/documentation/tutorial-worlds/developing-for-web-and-mobile-players-tutorial/module-4-camera-manager",
+            "file": "tutorials/web-mobile-development/04-camera-manager.md",
+            "status": "completed",
+            "extracted_at": "2025-09-25T00:00:00Z",
+            "concepts": [
+                "camera_manager_local",
+                "horizon_camera_api",
+                "local_execution_mode",
+                "camera_transition_options",
+                "event_driven_camera_control",
+                "ownership_transfer"
+            ]
+        },
+        {
+            "url": "https://developers.meta.com/horizon-worlds/learn/documentation/tutorial-worlds/developing-for-web-and-mobile-players-tutorial/module-7a-the-focused-interaction-manager",
+            "file": "tutorials/web-mobile-development/07a-focused-interaction-manager.md",
+            "status": "completed",
+            "extracted_at": "2025-09-25T00:00:00Z",
+            "concepts": [
+                "focused_interaction_api",
+                "touch_input_processing",
+                "focus_mode",
+                "interaction_managers",
+                "multi_touch_preparation",
+                "input_data_structure"
+            ]
+        },
+        {
+            "url": "https://developers.meta.com/horizon-worlds/learn/documentation/tutorial-worlds/developing-for-web-and-mobile-players-tutorial/module-3-the-puzzle-manager",
+            "file": "tutorials/web-mobile-development/03-puzzle-manager.md",
+            "status": "completed",
+            "extracted_at": "2025-09-25T00:00:00Z",
+            "concepts": [
+                "puzzle_manager",
+                "hint_timing_system",
+                "player_room_tracking",
+                "timeout_management",
+                "network_events",
+                "local_events",
+                "puzzle_completion_flow"
+            ]
+        },
+        {
+            "url": "https://developers.meta.com/horizon-worlds/learn/documentation/tutorial-worlds/developing-for-web-and-mobile-players-tutorial/module-5-player-manager",
+            "file": "tutorials/web-mobile-development/05-player-manager.md",
+            "status": "completed",
+            "extracted_at": "2025-09-25T00:00:00Z",
+            "concepts": [
+                "player_manager",
+                "camera_manager_assignment",
+                "gameplay_tags",
+                "entity_ownership_transfer",
+                "resource_allocation",
+                "player_lifecycle_management"
+            ]
+        },
+        {
+            "url": "https://developers.meta.com/horizon-worlds/learn/documentation/tutorial-worlds/developing-for-web-and-mobile-players-tutorial/module-6-room-a-the-magic-wand",
+            "file": "tutorials/web-mobile-development/06-room-a-magic-wand.md",
+            "status": "completed",
+            "extracted_at": "2025-09-26T00:00:00Z",
+            "concepts": [
+                "camera_api",
+                "grabbable_objects",
+                "projectile_launchers",
+                "first_person_camera",
+                "camera_collision_control",
+                "cross_platform_interactions"
+            ]
+        },
+        {
+            "url": "https://developers.meta.com/horizon-worlds/learn/documentation/tutorial-worlds/developing-for-web-and-mobile-players-tutorial/module-7-room-b-secret-code",
+            "file": "tutorials/web-mobile-development/07-room-b-secret-code.md",
+            "status": "completed",
+            "extracted_at": "2025-09-26T00:00:00Z",
+            "concepts": [
+                "puzzle_mechanics",
+                "focused_interaction_overview",
+                "cross_platform_input_paradigms"
+            ]
+        },
+        {
+            "url": "https://developers.meta.com/horizon-worlds/learn/documentation/tutorial-worlds/developing-for-web-and-mobile-players-tutorial/module-7b-use-drag-inputs-to-rotate-objects",
+            "file": "tutorials/web-mobile-development/07b-drag-inputs-rotate-objects.md",
+            "status": "completed",
+            "extracted_at": "2025-09-26T00:00:00Z",
+            "concepts": [
+                "drag_inputs",
+                "object_rotation",
+                "cross_platform_access_control",
+                "focused_interaction_events",
+                "vr_vs_web_mobile_interactions"
+            ]
+        },
+        {
+            "url": "https://developers.meta.com/horizon-worlds/learn/documentation/tutorial-worlds/developing-for-web-and-mobile-players-tutorial/module-7c-use-tap-inputs-to-interact-with-a-keypad",
+            "file": "tutorials/web-mobile-development/07c-tap-inputs-keypad.md",
+            "status": "completed",
+            "extracted_at": "2025-09-26T00:00:00Z",
+            "concepts": [
+                "tap_inputs",
+                "keypad_interaction",
+                "raycast_based_interaction",
+                "multi_script_architecture",
+                "code_validation_systems"
+            ]
+        },
+        {
+            "url": "https://developers.meta.com/horizon-worlds/learn/documentation/tutorial-worlds/developing-for-web-and-mobile-players-tutorial/module-8-room-c-target-practice",
+            "file": "tutorials/web-mobile-development/08-room-c-target-practice.md",
+            "status": "completed",
+            "extracted_at": "2025-09-26T00:00:00Z",
+            "concepts": [
+                "experience_bifurcation",
+                "physics_based_slingshot",
+                "device_specific_mechanics",
+                "platform_teleportation",
+                "spring_physics_simulation"
+            ]
+        },
+        {
+            "url": "https://developers.meta.com/horizon-worlds/learn/documentation/tutorial-worlds/spawning-and-pooling-in-typescript/module-1-setup",
+            "file": "tutorials/spawning-pooling/01-setup.md",
+            "status": "completed",
+            "extracted_at": "2025-09-26T00:00:00Z",
+            "concepts": [
+                "asset_spawning",
+                "object_pooling",
+                "spawn_controller",
+                "runtime_asset_management",
+                "performance_optimization",
+                "typescript_v2"
+            ]
+        },
+        {
+            "url": "https://developers.meta.com/horizon-worlds/learn/documentation/tutorial-worlds/spawning-and-pooling-in-typescript/module-2-implement-object-spawning",
+            "file": "tutorials/spawning-pooling/02-implement-object-spawning.md",
+            "status": "completed",
+            "extracted_at": "2025-09-26T00:00:00Z",
+            "concepts": [
+                "object_spawning",
+                "world_spawn_asset",
+                "world_delete_asset",
+                "trigger_zones",
+                "local_events",
+                "runtime_performance"
+            ]
+        },
+        {
+            "url": "https://developers.meta.com/horizon-worlds/learn/documentation/tutorial-worlds/spawning-and-pooling-in-typescript/module-3-implement-object-pooling",
+            "file": "tutorials/spawning-pooling/03-implement-object-pooling.md",
+            "status": "completed",
+            "extracted_at": "2025-09-26T00:00:00Z",
+            "concepts": [
+                "object_pooling",
+                "prestart_method",
+                "pool_utils",
+                "off_screen_storage",
+                "visibility_management",
+                "state_management"
+            ]
+        },
+        {
+            "url": "https://developers.meta.com/horizon-worlds/learn/documentation/tutorial-worlds/spawning-and-pooling-in-typescript/module-4-spawn-controller",
+            "file": "tutorials/spawning-pooling/04-spawn-controller.md",
+            "status": "completed",
+            "extracted_at": "2025-09-26T00:00:00Z",
+            "concepts": [
+                "spawn_controller",
+                "memory_containers",
+                "load_spawn_unload",
+                "enumerated_states",
+                "error_handling",
+                "optimal_performance"
+            ]
+        },
+        {
+            "url": "https://developers.meta.com/horizon-worlds/learn/documentation/tutorial-worlds/spawning-and-pooling-in-typescript/module-5-summary",
+            "file": "tutorials/spawning-pooling/05-summary.md",
+            "status": "completed",
+            "extracted_at": "2025-09-26T00:00:00Z",
+            "concepts": [
+                "performance_comparison",
+                "method_selection",
+                "best_practices",
+                "extension_ideas",
+                "production_considerations"
+            ]
+        },
+        {
+            "url": "https://developers.meta.com/horizon-worlds/learn/documentation/tutorial-worlds/developing-for-web-and-mobile-players-tutorial/module-9-summary",
+            "file": "tutorials/web-mobile-development/09-summary.md",
+            "status": "completed",
+            "extracted_at": "2025-09-26T00:00:00Z",
+            "concepts": [
+                "tutorial_summary",
+                "features_lab",
+                "tutorial_extensions",
+                "cross_platform_best_practices",
+                "development_philosophy"
+            ]
+        },
+        {
+            "url": "https://developers.meta.com/horizon-worlds/learn/documentation/tutorial-worlds/horizon-traversal-sample-world/module-1-setup",
+            "file": "tutorials/rooftop-racers/01-setup.md",
+            "status": "completed",
+            "extracted_at": "2025-09-26T00:00:00Z",
+            "concepts": [
+                "rooftop_racers",
+                "racing_games",
+                "manager_pattern",
+                "event_driven_architecture",
+                "multiplayer_racing",
+                "typescript_2_0",
+                "game_architecture",
+                "entity_pooling",
+                "ownership_transfer",
+                "local_server_scripts"
+            ]
+        },
+        {
+            "url": "https://developers.meta.com/horizon-worlds/learn/documentation/tutorial-worlds/horizon-traversal-sample-world/module-2-overall-game-manager-systems",
+            "file": "tutorials/rooftop-racers/02-game-manager-systems.md",
+            "status": "completed",
+            "extracted_at": "2025-09-26T00:00:00Z",
+            "concepts": [
+                "game_manager",
+                "match_manager",
+                "race_manager",
+                "environmental_sound_manager",
+                "game_state_enum",
+                "player_game_status",
+                "spawn_point_gizmos",
+                "curve_based_progression",
+                "testing_tools",
+                "debug_console"
+            ]
+        },
+        {
+            "url": "https://developers.meta.com/horizon-worlds/learn/documentation/tutorial-worlds/horizon-traversal-sample-world/module-3-player-movement-systems",
+            "file": "tutorials/rooftop-racers/03-player-movement-systems.md",
+            "status": "completed",
+            "extracted_at": "2025-09-26T00:00:00Z",
+            "concepts": [
+                "player_movement",
+                "double_jump",
+                "boost_jump",
+                "input_handling",
+                "network_synchronization",
+                "control_pool_management",
+                "math_utilities",
+                "vector_calculations",
+                "player_controller_manager",
+                "player_controller_local"
+            ]
+        },
+        {
+            "url": "https://developers.meta.com/horizon-worlds/learn/documentation/tutorial-worlds/horizon-traversal-sample-world/module-4-player-hud-systems",
+            "file": "tutorials/rooftop-racers/04-player-hud-systems.md",
+            "status": "completed",
+            "extracted_at": "2025-09-26T00:00:00Z",
+            "concepts": [
+                "player_hud",
+                "object_pooling",
+                "hud_management",
+                "race_position_display",
+                "timing_display",
+                "hud_manager",
+                "hud_local_scripts",
+                "player_hud_mapping",
+                "event_subscriptions",
+                "ownership_changes"
+            ]
+        },
+        {
+            "url": "https://developers.meta.com/horizon-worlds/learn/documentation/tutorial-worlds/horizon-traversal-sample-world/module-5-player-out-of-bounds-management-systems",
+            "file": "tutorials/rooftop-racers/05-out-of-bounds-management.md",
+            "status": "completed",
+            "extracted_at": "2025-09-26T00:00:00Z",
+            "concepts": [
+                "out_of_bounds_detection",
+                "player_respawning",
+                "perimeter_triggers",
+                "y_axis_checking",
+                "spawn_point_tracking",
+                "oob_manager",
+                "respawner_scripts",
+                "dual_detection_methods",
+                "object_pooling",
+                "fade_transitions"
+            ]
+        },
+        {
+            "url": "https://developers.meta.com/horizon-worlds/learn/documentation/tutorial-worlds/horizon-traversal-sample-world/module-6-helper-and-base-classes",
+            "file": "tutorials/rooftop-racers/06-helper-base-classes.md",
+            "status": "completed",
+            "extracted_at": "2025-09-26T00:00:00Z",
+            "concepts": [
+                "helper_classes",
+                "base_classes",
+                "event_management",
+                "game_utilities",
+                "math_utilities",
+                "trigger_base_class",
+                "events_typescript",
+                "local_vs_network_events",
+                "object_pooling_patterns",
+                "curve_visualization"
+            ]
+        },
+        {
+            "url": "https://developers.meta.com/horizon-worlds/learn/documentation/tutorial-worlds/horizon-traversal-sample-world/module-7-summary",
+            "file": "tutorials/rooftop-racers/07-summary.md",
+            "status": "completed",
+            "extracted_at": "2025-09-26T00:00:00Z",
+            "concepts": [
+                "asset_templates",
+                "code_reuse",
+                "system_export",
+                "world_expansion",
+                "utility_imports",
+                "tutorial_completion",
+                "development_workflows",
+                "entity_management",
+                "script_portability",
+                "game_enhancement_ideas"
+            ]
+        },
+        {
+            "url": "https://developers.meta.com/horizon-worlds/learn/documentation/tutorial-worlds/economy-world-tutorial/module-1-introduction",
+            "file": "tutorials/economy-world/01-introduction.md",
+            "status": "completed",
+            "extracted_at": "2025-09-26T00:00:00Z",
+            "concepts": [
+                "in_world_economy",
+                "world_inventory_apis",
+                "tycoon_games",
+                "monetization_vs_economy",
+                "mhcp_requirements",
+                "soft_currencies",
+                "progression_systems",
+                "apple_farmer_example"
+            ]
+        },
+        {
+            "url": "https://developers.meta.com/horizon-worlds/learn/documentation/tutorial-worlds/economy-world-tutorial/module-2-setup",
+            "file": "tutorials/economy-world/02-setup.md",
+            "status": "completed",
+            "extracted_at": "2025-09-26T00:00:00Z",
+            "concepts": [
+                "in_world_items",
+                "consumable_vs_durable",
+                "item_skus",
+                "commerce_panel",
+                "item_thumbnails",
+                "mhcp_setup",
+                "meta_credits_configuration"
+            ]
+        },
+        {
+            "url": "https://developers.meta.com/horizon-worlds/learn/documentation/tutorial-worlds/economy-world-tutorial/module-3-configuring-gameplay",
+            "file": "tutorials/economy-world/03-configuring-gameplay.md",
+            "status": "completed",
+            "extracted_at": "2025-09-26T00:00:00Z",
+            "concepts": [
+                "simple_loot_item_script",
+                "oven_script",
+                "purchaseable_item_base_class",
+                "trigger_gizmos",
+                "interval_timers",
+                "state_management",
+                "entity_composition",
+                "player_hud_systems"
+            ]
+        },
+        {
+            "url": "https://developers.meta.com/horizon-worlds/learn/documentation/tutorial-worlds/economy-world-tutorial/module-4-adding-the-shop",
+            "file": "tutorials/economy-world/04-adding-the-shop.md",
+            "status": "completed",
+            "extracted_at": "2025-09-26T00:00:00Z",
+            "concepts": [
+                "world_shop_gizmo",
+                "item_exchange_ratios",
+                "utility_power_ups",
+                "shop_ui_configuration",
+                "perceived_value_preservation",
+                "faster_pies_upgrade",
+                "faster_apples_upgrade"
+            ]
+        },
+        {
+            "url": "https://developers.meta.com/horizon-worlds/learn/documentation/tutorial-worlds/economy-world-tutorial/module-5-finishing-up",
+            "file": "tutorials/economy-world/05-finishing-up.md",
+            "status": "completed",
+            "extracted_at": "2025-09-26T00:00:00Z",
+            "concepts": [
+                "debug_economy_ui",
+                "testing_workflows",
+                "economic_loop_verification",
+                "publication_safety",
+                "tutorial_extensions",
+                "balance_validation"
+            ]
+        },
+        {
+            "url": "https://developers.meta.com/horizon-worlds/learn/documentation/tutorial-worlds/new-user-experience-tutorial/module-1-setup",
+            "file": "tutorials/new-user-experience/01-introduction.md",
+            "status": "completed",
+            "extracted_at": "2025-09-26T00:00:00Z",
+            "concepts": [
+                "new_user_experience",
+                "nux_asset_templates",
+                "player_onboarding",
+                "day_1_retention",
+                "quick_wins"
+            ]
+        },
+        {
+            "url": "https://developers.meta.com/horizon-worlds/learn/documentation/tutorial-worlds/new-user-experience-tutorial/module-2-tutorial-manager",
+            "file": "tutorials/new-user-experience/02-tutorial-manager.md",
+            "status": "completed",
+            "extracted_at": "2025-09-26T00:00:00Z",
+            "concepts": [
+                "tutorial_slide_system",
+                "tutorial_controller",
+                "tutorial_slide",
+                "info_slide_api",
+                "slideshow_presentations"
+            ]
+        },
+        {
+            "url": "https://developers.meta.com/horizon-worlds/learn/documentation/tutorial-worlds/new-user-experience-tutorial/module-3-hint-text",
+            "file": "tutorials/new-user-experience/03-hint-text.md",
+            "status": "completed",
+            "extracted_at": "2025-09-26T00:00:00Z",
+            "concepts": [
+                "hint_text_notifications",
+                "ui_events_notification",
+                "dynamic_font_sizing",
+                "adaptive_layouts",
+                "player_guidance"
+            ]
+        },
+        {
+            "url": "https://developers.meta.com/horizon-worlds/learn/documentation/tutorial-worlds/custom-ui-tutorial-world",
+            "file": "tutorials/custom-ui-tutorial-world/custom-ui-tutorial-world-overview.md",
+            "status": "completed",
+            "extracted_at": "2025-09-26T10:00:00Z",
+            "tutorial_series": "custom-ui-tutorial-world",
+            "zones": [
+                {
+                    "zone": 0,
+                    "file": "tutorials/custom-ui-tutorial-world/00-zone-0-setup.md",
+                    "concepts": [
+                        "custom_ui_fundamentals",
+                        "ui_gizmo_setup",
+                        "ui_container_basics",
+                        "button_interactions",
+                        "text_display"
+                    ]
+                },
+                {
+                    "zone": 1,
+                    "file": "tutorials/custom-ui-tutorial-world/01-zone-1-option-lists.md",
+                    "concepts": [
+                        "option_lists",
+                        "interactive_selections",
+                        "ui_callbacks",
+                        "state_management",
+                        "user_preferences"
+                    ]
+                },
+                {
+                    "zone": 2,
+                    "file": "tutorials/custom-ui-tutorial-world/02-zone-2-basics.md",
+                    "concepts": [
+                        "advanced_buttons",
+                        "timer_ui",
+                        "dialog_systems",
+                        "ui_animations",
+                        "interactive_components"
+                    ]
+                },
+                {
+                    "zone": 3,
+                    "file": "tutorials/custom-ui-tutorial-world/03-zone-3-bars.md",
+                    "concepts": [
+                        "progress_bars",
+                        "health_bars",
+                        "ui_indicators",
+                        "visual_feedback",
+                        "bar_animations"
+                    ]
+                },
+                {
+                    "zone": 4,
+                    "file": "tutorials/custom-ui-tutorial-world/04-zone-4-advanced-lists.md",
+                    "concepts": [
+                        "advanced_lists",
+                        "inventory_systems",
+                        "item_displays",
+                        "list_management",
+                        "ui_optimization"
+                    ]
+                },
+                {
+                    "zone": 5,
+                    "file": "tutorials/custom-ui-tutorial-world/05-zone-5-animation.md",
+                    "concepts": [
+                        "ui_animations",
+                        "spinners",
+                        "animated_banners",
+                        "transition_effects",
+                        "visual_polish"
+                    ]
+                },
+                {
+                    "zone": 6,
+                    "file": "tutorials/custom-ui-tutorial-world/06-zone-6-scroll-views.md",
+                    "concepts": [
+                        "scroll_views",
+                        "scrollable_content",
+                        "viewport_management",
+                        "content_organization",
+                        "navigation_systems"
+                    ]
+                },
+                {
+                    "zone": 7,
+                    "file": "tutorials/custom-ui-tutorial-world/07-zone-7-hud.md",
+                    "concepts": [
+                        "hud_systems",
+                        "screen_overlays",
+                        "persistent_ui",
+                        "information_display",
+                        "player_awareness"
+                    ]
+                },
+                {
+                    "zone": 8,
+                    "file": "tutorials/custom-ui-tutorial-world/08-zone-8-store.md",
+                    "concepts": [
+                        "e_commerce_ui",
+                        "store_systems",
+                        "product_catalogs",
+                        "purchase_flows",
+                        "transaction_ui"
+                    ]
+                }
+            ]
+        },
+        {
+            "url": "https://developers.meta.com/horizon-worlds/learn/documentation/tutorial-worlds/sim-tycoon-tutorial/module-0-setup",
+            "file": "tutorials/sim-tycoon/00-setup.md",
+            "status": "completed",
+            "extracted_at": "2025-09-26T00:00:00Z",
+            "concepts": [
+                "sim_tycoon_setup",
+                "template_world_access",
+                "variable_groups_creation",
+                "save_game_configuration",
+                "tycoon_gameplay_loop",
+                "ftue_system",
+                "progression_mechanics"
+            ]
+        },
+        {
+            "url": "https://developers.meta.com/horizon-worlds/learn/documentation/tutorial-worlds/sim-tycoon-tutorial/module-1-simplayer",
+            "file": "tutorials/sim-tycoon/01-simplayer.md",
+            "status": "completed",
+            "extracted_at": "2025-09-26T00:00:00Z",
+            "concepts": [
+                "sim_player_wrapper",
+                "player_state_management",
+                "tool_management_systems",
+                "inventory_tracking",
+                "resource_calculation",
+                "save_game_integration",
+                "player_cleanup"
+            ]
+        },
+        {
+            "url": "https://developers.meta.com/horizon-worlds/learn/documentation/tutorial-worlds/sim-tycoon-tutorial/module-2-resource-nodes",
+            "file": "tutorials/sim-tycoon/02-resource-nodes.md",
+            "status": "completed",
+            "extracted_at": "2025-09-26T00:00:00Z",
+            "concepts": [
+                "resource_nodes",
+                "mining_mechanics",
+                "health_systems",
+                "respawn_mechanics",
+                "tool_integration",
+                "resource_generation",
+                "player_interaction_systems",
+                "resource_types"
+            ]
+        },
+        {
+            "url": "https://developers.meta.com/horizon-worlds/learn/documentation/tutorial-worlds/sim-tycoon-tutorial/module-3-tools-and-toolgroups",
+            "file": "tutorials/sim-tycoon/03-tools-and-toolgroups.md",
+            "status": "completed",
+            "extracted_at": "2025-09-26T00:00:00Z",
+            "concepts": [
+                "tool_groups",
+                "tool_pooling",
+                "grabbable_tools",
+                "attachable_tools",
+                "tool_progression",
+                "efficiency_systems",
+                "tool_management",
+                "player_assignment"
+            ]
+        },
+        {
+            "url": "https://developers.meta.com/horizon-worlds/learn/documentation/tutorial-worlds/sim-tycoon-tutorial/module-7-store-system",
+            "file": "tutorials/sim-tycoon/07-store-system.md",
+            "status": "completed",
+            "extracted_at": "2025-09-26T00:00:00Z",
+            "concepts": [
+                "store_system",
+                "purchase_validation",
+                "tool_distribution",
+                "currency_management",
+                "progress_tracking",
+                "economic_balancing",
+                "performance_optimization",
+                "multiplayer_commerce"
+            ]
+        },
+        {
+            "url": "https://developers.meta.com/horizon-worlds/learn/documentation/tutorial-worlds/sim-tycoon-tutorial/module-8-world-management",
+            "file": "tutorials/sim-tycoon/08-world-game-management.md",
+            "status": "completed",
+            "extracted_at": "2025-09-26T00:00:00Z",
+            "concepts": [
+                "world_management",
+                "game_orchestration",
+                "player_lifecycle_management",
+                "system_coordination",
+                "global_state_management",
+                "event_system"
+            ]
+        },
+        {
+            "url": "https://developers.meta.com/horizon-worlds/learn/documentation/tutorial-worlds/sim-tycoon-tutorial/module-9-savegame-system",
+            "file": "tutorials/sim-tycoon/09-savegame-system.md",
+            "status": "completed",
+            "extracted_at": "2025-09-26T00:00:00Z",
+            "concepts": [
+                "save_game_system",
+                "data_persistence",
+                "player_variables",
+                "cross_session_storage",
+                "data_validation",
+                "corruption_recovery",
+                "version_migration",
+                "automatic_saving",
+                "save_triggers",
+                "variable_groups"
+            ]
+        },
+        {
+            "url": "https://developers.meta.com/horizon-worlds/learn/documentation/tutorial-worlds/sim-tycoon-tutorial/module-10-hud-system",
+            "file": "tutorials/sim-tycoon/10-hud-system.md",
+            "status": "completed",
+            "extracted_at": "2025-09-26T00:00:00Z",
+            "concepts": [
+                "hud_system",
+                "mobile_optimization",
+                "touch_friendly_design",
+                "real_time_displays",
+                "resource_counters",
+                "currency_tracking",
+                "progress_indicators",
+                "interactive_elements",
+                "performance_optimization",
+                "cross_platform_ui"
+            ]
+        },
+        {
+            "url": "https://developers.meta.com/horizon-worlds/learn/documentation/tutorial-worlds/sim-tycoon-tutorial/module-11-ftue-system",
+            "file": "tutorials/sim-tycoon/11-ftue-system.md",
+            "status": "completed",
+            "extracted_at": "2025-09-26T00:00:00Z",
+            "concepts": [
+                "ftue_system",
+                "first_time_user_experience",
+                "onboarding_flows",
+                "tutorial_systems",
+                "completion_tracking",
+                "simplified_environments",
+                "store_tutorials",
+                "teleporter_activation",
+                "spawn_determination",
+                "save_integration"
+            ]
+        },
+        {
+            "url": "https://developers.meta.com/horizon-worlds/learn/documentation/tutorial-worlds/sim-tycoon-tutorial/module-12-global-resource-nodes",
+            "file": "tutorials/sim-tycoon/12-global-resource-nodes.md",
+            "status": "completed",
+            "extracted_at": "2025-09-26T00:00:00Z",
+            "concepts": [
+                "global_resource_nodes",
+                "collaborative_mining",
+                "shared_progress",
+                "reward_distribution",
+                "reset_mechanics",
+                "multiplayer_coordination",
+                "contribution_tracking",
+                "teamwork_incentives",
+                "synchronized_states",
+                "quest_integration"
+            ]
+        },
+        {
+            "url": "https://developers.meta.com/horizon-worlds/learn/documentation/tutorial-worlds/sim-tycoon-tutorial/module-13-teleporter-system",
+            "file": "tutorials/sim-tycoon/13-teleporter-system.md",
+            "status": "completed",
+            "extracted_at": "2025-09-26T00:00:00Z",
+            "concepts": [
+                "teleporter_system",
+                "fast_travel",
+                "conditional_access",
+                "ftue_integration",
+                "visual_feedback",
+                "smooth_transitions",
+                "area_connections",
+                "unlock_mechanics"
+            ]
+        },
+        {
+            "url": "https://developers.meta.com/horizon-worlds/learn/documentation/tutorial-worlds/sim-tycoon-tutorial/module-14-particle-vfx-system",
+            "file": "tutorials/sim-tycoon/14-particle-vfx-system.md",
+            "status": "completed",
+            "extracted_at": "2025-09-26T00:00:00Z",
+            "concepts": [
+                "particle_vfx_system",
+                "mining_effects",
+                "collection_effects",
+                "tool_effects",
+                "achievement_effects",
+                "mobile_optimization",
+                "object_pooling",
+                "visual_feedback"
+            ]
+        },
+        {
+            "url": "https://developers.meta.com/horizon-worlds/learn/documentation/tutorial-worlds/sim-tycoon-tutorial/module-15-audio-system",
+            "file": "tutorials/sim-tycoon/15-audio-system.md",
+            "status": "completed",
+            "extracted_at": "2025-09-26T00:00:00Z",
+            "concepts": [
+                "audio_system",
+                "mining_audio",
+                "tool_audio",
+                "ui_audio",
+                "achievement_audio",
+                "mobile_optimization",
+                "platform_specific_optimization",
+                "accessibility"
+            ]
+        },
+        {
+            "url": "https://developers.meta.com/horizon-worlds/learn/documentation/tutorial-worlds/sim-tycoon-tutorial/module-16-achievement-quest-system",
+            "file": "tutorials/sim-tycoon/16-achievement-quest-system.md",
+            "status": "completed",
+            "extracted_at": "2025-09-26T00:00:00Z",
+            "concepts": [
+                "achievement_system",
+                "quest_system",
+                "progress_tracking",
+                "achievement_unlocking",
+                "quest_management",
+                "reward_distribution",
+                "persistence",
+                "player_engagement"
+            ]
+        },
+        {
+            "url": "https://developers.meta.com/horizon-worlds/learn/documentation/tutorial-worlds/sim-tycoon-tutorial/module-17-configuration-customization",
+            "file": "tutorials/sim-tycoon/17-configuration-customization.md",
+            "status": "completed",
+            "extracted_at": "2025-09-26T00:00:00Z",
+            "concepts": [
+                "configuration_system",
+                "advanced_customization",
+                "economic_configuration",
+                "balance_configuration",
+                "performance_configuration",
+                "resource_types",
+                "tool_categories",
+                "monetization_design"
+            ]
+        },
+        {
+            "url": "https://developers.meta.com/horizon-worlds/learn/documentation/typescript/api-references-and-examples/horizon-typescript-v2-changes",
+            "file": "typescript-v2-changes.md",
+            "status": "completed",
+            "extracted_at": "2025-09-26T00:00:00Z",
+            "concepts": [
+                "typescript_v2_api",
+                "api_migration",
+                "module_imports",
+                "component_syntax",
+                "event_system_changes",
+                "nullability_handling",
+                "breaking_changes"
+            ]
+        },
+        {
+            "url": "https://developers.meta.com/horizon-worlds/learn/documentation/typescript/asset-spawning/introduction-to-asset-spawning",
+            "file": "asset-spawning-introduction.md",
+            "status": "completed",
+            "extracted_at": "2025-09-26T12:00:00Z",
+            "concepts": [
+                "asset_spawning",
+                "spawn_controller",
+                "runtime_memory",
+                "codeblock_events",
+                "asset_library",
+                "dynamic_gameplay"
+            ]
+        },
+        {
+            "url": "https://developers.meta.com/horizon-worlds/learn/documentation/typescript/asset-spawning/checking-for-asset-spawn-events",
+            "file": "asset-spawning-events.md",
+            "status": "completed",
+            "extracted_at": "2025-09-26T12:00:00Z",
+            "concepts": [
+                "spawn_events",
+                "onassetspawned",
+                "onassetdespawned",
+                "onassetspawnfailed",
+                "event_handling",
+                "entity_references"
+            ]
+        },
+        {
+            "url": "https://developers.meta.com/horizon-worlds/learn/documentation/typescript/asset-spawning/optimization-tips",
+            "file": "asset-spawning-optimization.md",
+            "status": "completed",
+            "extracted_at": "2025-09-26T12:00:00Z",
+            "concepts": [
+                "performance_optimization",
+                "object_limits",
+                "object_pooling",
+                "distance_despawning",
+                "interaction_timeouts",
+                "pool_management"
+            ]
+        },
+        {
+            "url": "https://developers.meta.com/horizon-worlds/learn/documentation/typescript/asset-spawning/world-streaming",
+            "file": "asset-spawning-world-streaming.md",
+            "status": "completed",
+            "extracted_at": "2025-09-26T12:00:00Z",
+            "concepts": [
+                "world_streaming",
+                "sublevels",
+                "parent_world",
+                "sublevel_entity",
+                "global_illumination",
+                "collaborative_development"
+            ]
+        },
+        {
+            "url": "https://developers.meta.com/horizon-worlds/learn/documentation/typescript/asset-spawning/scripting-considerations",
+            "file": "asset-spawning-scripting.md",
+            "status": "completed",
+            "extracted_at": "2025-09-26T12:00:00Z",
+            "concepts": [
+                "script_conflicts",
+                "naming_conflicts",
+                "import_resolution",
+                "file_backed_scripts",
+                "architectural_guidance"
+            ]
+        },
+        {
+            "url": "https://developers.meta.com/horizon-worlds/learn/documentation/typescript/events/local-events",
+            "file": "local-events-overview.md",
+            "status": "completed",
+            "extracted_at": "2025-09-26T12:00:00Z",
+            "concepts": [
+                "local_events",
+                "component_communication",
+                "typescript_events",
+                "synchronous_events",
+                "client_isolation",
+                "event_subscriptions",
+                "local_vs_server_execution"
+            ]
+        },
+        {
+            "url": "https://developers.meta.com/horizon-worlds/learn/documentation/typescript/events/world-update-events",
+            "file": "world-update-events.md",
+            "status": "completed",
+            "extracted_at": "2025-09-26T15:00:00Z",
+            "concepts": [
+                "world_update_events",
+                "delta_time",
+                "broadcast_events",
+                "frame_loop",
+                "animation_physics",
+                "frame_rate_independence"
+            ]
+        },
+        {
+            "url": "https://developers.meta.com/horizon-worlds/learn/documentation/typescript/events/codeblock-events",
+            "file": "codeblock-events-overview.md",
+            "status": "completed",
+            "extracted_at": "2025-09-26T15:00:00Z",
+            "concepts": [
+                "codeblock_events",
+                "built_in_events",
+                "cross_scripting",
+                "player_events",
+                "interaction_events",
+                "system_events"
+            ]
+        },
+        {
+            "url": "https://developers.meta.com/horizon-worlds/learn/documentation/typescript/events/events-best-practices",
+            "file": "events-best-practices.md",
+            "status": "completed",
+            "extracted_at": "2025-09-26T15:00:00Z",
+            "concepts": [
+                "events_best_practices",
+                "event_management",
+                "subscription_management",
+                "performance_optimization",
+                "code_organization"
+            ]
+        }
+    ],
+    "outer_concepts_generated": [
+        "desktop-editor-overview.md",
+        "typescript-development-overview.md",
+        "typescript-v2-changes.md",
+        "typescript-v2-upgrade-guide.md",
+        "events-triggers-system.md",
+        "objects-components-overview.md",
+        "gizmos-overview.md",
+        "local-scripting-ownership.md",
+        "physics-grabbable-entities.md",
+        "camera-apis-overview.md",
+        "custom-ui-overview.md",
+        "multiplayer-lobby-systems.md",
+        "web-mobile-development-overview.md",
+        "focused-interaction-overview.md",
+        "asset-spawning-introduction.md",
+        "asset-spawning-events.md",
+        "asset-spawning-optimization.md",
+        "asset-spawning-world-streaming.md",
+        "asset-spawning-scripting.md",
+        "local-events-overview.md",
+        "racing-game-systems.md",
+        "in-world-economy-systems.md",
+        "new-user-experience-overview.md",
+        "world-update-events.md",
+        "codeblock-events-overview.md",
+        "events-best-practices.md"
+    ],
+    "summary": {
+        "total_urls_processed": 81,
+        "completed_files": 81,
+        "pending_modules": 0,
+        "concepts_extracted": [
+            "desktop_editor",
+            "typescript_scripting",
+            "events_system",
+            "player_management",
+            "game_state_management",
+            "broadcast_events",
+            "entity_management",
+            "collision_detection",
+            "trigger_zones",
+            "score_tracking",
+            "ui_polish",
+            "gizmos",
+            "physics_simulation",
+            "grabbable_entities",
+            "local_scripting",
+            "ownership_transfer",
+            "cross_platform_development",
+            "camera_api",
+            "web_mobile_development",
+            "player_camera_events",
+            "camera_perspectives",
+            "camera_assignment",
+            "pan_camera_modes",
+            "fixed_camera_modes",
+            "cutscene_systems",
+            "spectator_mode",
+            "camera_safety_mechanisms",
+            "custom_ui",
+            "ui_development",
+            "ui_performance_optimization",
+            "multiplayer_lobby_systems",
+            "drop_in_gameplay",
+            "player_state_coordination",
+            "match_completion_cycles",
+            "lobby_teleportation_systems",
+            "web_mobile_development",
+            "cross_platform_ui_systems",
+            "focused_interaction_api",
+            "touch_input_processing",
+            "hud_systems",
+            "camera_manager_systems",
+            "local_execution_patterns",
+            "puzzle_manager_systems",
+            "hint_timing_mechanics",
+            "player_room_tracking",
+            "gameplay_tags_usage",
+            "resource_allocation_patterns",
+            "asset_spawning_systems",
+            "object_pooling_patterns",
+            "spawn_controller_containers",
+            "runtime_memory_management",
+            "performance_optimization_techniques",
+            "scripted_avatar_npcs",
+            "npc_state_machines",
+            "navmesh_pathfinding",
+            "voice_over_systems",
+            "quest_management",
+            "npc_behavior_programming",
+            "audio_integration",
+            "racing_game_architecture",
+            "manager_patterns",
+            "event_coordination",
+            "player_movement_systems",
+            "hud_management",
+            "out_of_bounds_detection",
+            "helper_base_classes",
+            "utility_frameworks",
+            "in_world_economy",
+            "world_inventory_apis",
+            "tycoon_games",
+            "monetization_systems",
+            "consumable_items",
+            "shop_gizmos",
+            "debug_tools",
+            "economic_balance",
+            "world_streaming",
+            "sublevels",
+            "script_conflicts",
+            "import_resolution"
+        ],
+        "last_updated": "2025-09-26T15:00:00Z"
+    }
+}
